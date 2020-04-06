@@ -16,4 +16,3 @@ def update_counting_hash(hash, key)
  end
  hash
 end
-end
